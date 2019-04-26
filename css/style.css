@@ -51,6 +51,14 @@ h4.amiable {
   background: linear-gradient(to right, #22aa44, #44cc66)
 }
 
+h4.indifferent {
+  background: linear-gradient(to right, #22aa44, #44cc66)
+}
+
+h4.dubious {
+  background: linear-gradient(to right, #22aa44, #44cc66)
+}
+
 .column {
   width: 30%;
   display: inline-block;
