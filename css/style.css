@@ -5,14 +5,11 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
+  background-image: url(../images/white-wood.jpg)
 }
 
 * {
   box-sizing: border-box;
-}
-
-body {
-  background-image: url(../images/white-wood.jpg)
 }
 
 .container, h1 {
