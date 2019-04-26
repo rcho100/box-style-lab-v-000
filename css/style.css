@@ -56,7 +56,7 @@ h4.indifferent {
 }
 
 h4.dubious {
-  background: linear-gradient(to right, #22aa44, #dd4444)
+  background: linear-gradient(to right, rgb(184, 0, 2), #dd4444)
 }
 
 .column {
