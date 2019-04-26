@@ -7,6 +7,10 @@ body, html {
   text-align: center;
 }
 
+body {
+  rgb(184, 0, 2
+}
+
 .container, h1 {
   width: 80%;
   max-width: 600px;
